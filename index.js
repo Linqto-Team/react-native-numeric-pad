@@ -285,7 +285,6 @@ const NumpadStyle = StyleSheet.create({
     flexWrap: 'wrap'
   },
   buttonContainer: {
-    marginBottom: 12,
     width: '33%',
     alignItems: 'center',
     justifyContent: 'center'
